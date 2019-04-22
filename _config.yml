@@ -9,10 +9,10 @@ baseurl: ''
 author:
   name: 'Mun Jeang Gu'
   email: aiko11@daum.net
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  twitter_username: aiko11
+  facebook_username: aikomoon
+  github_username:  aiko11
+  linkedin_username:  aiko11
 
 defaults:
   -
