@@ -1,8 +1,8 @@
 ---
-title:  "Welcome to aiko11"
+title:  "Welcome to Aiko11"
 date:   2016-01-08 15:04:23
-categories: [python]
-tags: [python, program, ai, machine learning, deep learning]
+categories: [Python]
+tags: [Python, AI, Machine learning, Deep learning]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -10,10 +10,10 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-``` ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
+``` python
+def print_hi(name):
+  print("Hi", name)
+
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
